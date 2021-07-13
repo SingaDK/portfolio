@@ -51,9 +51,9 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  /* 
-  background:url('../assets/img/bg1.jpg');
-   */ 
+  /*background:url('../assets/img/main_bge.jpg') ;
+  background-attachment: fixed;*/
+   
   background-color: rgb(153, 152, 152);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
