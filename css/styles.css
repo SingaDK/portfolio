@@ -7413,6 +7413,8 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
+  
+  background:url('../assets/img/elec2.jpg') no-repeat center;
   background-color: #00318d !important;
 }
 
